@@ -1,6 +1,6 @@
 {
-  "name": "execute-script",
-  "repo": "yuehu/execute-script",
+  "name": "execscript",
+  "repo": "dopm/execscript",
   "description": "Execute a script node again.",
   "version": "0.0.1",
   "keywords": [],
